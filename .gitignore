@@ -46,4 +46,4 @@ yarn-error.log*
 .idea
 
 # Db file
-db.sqlite
+#db.sqlite
